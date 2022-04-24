@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BaseDatos/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/BaseDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaseDatos.dll": {}
+        }
+      },
+      "LogicaNegocios/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BaseDatos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LogicaNegocios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogicaNegocios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseDatos/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesNegocio/BaseDatos.csproj",
+      "msbuildProject": "../EntidadesNegocio/BaseDatos.csproj"
+    },
+    "LogicaNegocios/1.0.0": {
+      "type": "project",
+      "path": "../../LogicaNegocios/LogicaNegocios.csproj",
+      "msbuildProject": "../../LogicaNegocios/LogicaNegocios.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BaseDatos >= 1.0.0",
+      "LogicaNegocios >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\JUAN\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\InterfazUsuario\\InterfazUsuario.csproj",
+      "projectName": "InterfazUsuario",
+      "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\InterfazUsuario\\InterfazUsuario.csproj",
+      "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
+      "outputPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\InterfazUsuario\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\JUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj": {
+              "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj"
+            },
+            "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj": {
+              "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

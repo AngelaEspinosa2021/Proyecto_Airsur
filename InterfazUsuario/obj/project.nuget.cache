@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "cwwnEvHzVz5XS7zfS95h2QSBHoyffDyOeTIjSYYH+Xj8LkPqzMtLZdQNP7v/6d7lsC3jak61DQJdcM602FRYkA==",
-  "success": true,
-  "projectFilePath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\InterfazUsuario\\InterfazUsuario.csproj",
+  "dgSpecHash": "/wzBAm/ZeazT7x82SoJ5GLUPX8vY42jUqGvPUMRDruKDMKNAd5btCk1i/6WfuzqiDkwX0nTEK402Ndkxjs2Cyg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

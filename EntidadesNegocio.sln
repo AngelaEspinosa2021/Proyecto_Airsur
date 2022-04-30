@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDatos", "EntidadesNegoc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocios", "..\LogicaNegocios\LogicaNegocios.csproj", "{7B5519B0-0BD9-47DD-8834-D30578BC231D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazUsuario", "InterfazUsuario\InterfazUsuario.csproj", "{86090137-6A63-4CD6-9512-353430B89622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfazUsuario", "InterfazUsuario\InterfazUsuario.csproj", "{86090137-6A63-4CD6-9512-353430B89622}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

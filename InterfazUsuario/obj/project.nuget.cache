@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/wzBAm/ZeazT7x82SoJ5GLUPX8vY42jUqGvPUMRDruKDMKNAd5btCk1i/6WfuzqiDkwX0nTEK402Ndkxjs2Cyg==",
-  "success": false,
-  "projectFilePath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
+  "dgSpecHash": "5d/ALDIXKSmRpJfdZQa1P2ITlYfgYKc2t3Ix0klhqPG/qhoRy5YpxPc3fyliqW+ZSNBFrq7vDV/DSOM4Ymv/IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\InterfazUsuario\\InterfazUsuario.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

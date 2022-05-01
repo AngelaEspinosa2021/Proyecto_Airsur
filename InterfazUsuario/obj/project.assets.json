@@ -4,11 +4,35 @@
     ".NETCoreApp,Version=v3.1": {
       "BaseDatos/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "EntidadesDeNegocio": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/BaseDatos.dll": {}
         },
         "runtime": {
           "bin/placeholder/BaseDatos.dll": {}
+        }
+      },
+      "EntidadesDeNegocio/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/EntidadesDeNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesDeNegocio.dll": {}
+        }
+      },
+      "LogicaNegocios/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BaseDatos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LogicaNegocios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogicaNegocios.dll": {}
         }
       }
     }
@@ -18,12 +42,22 @@
       "type": "project",
       "path": "../EntidadesNegocio/BaseDatos.csproj",
       "msbuildProject": "../EntidadesNegocio/BaseDatos.csproj"
+    },
+    "EntidadesDeNegocio/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesDeNegocio/EntidadesDeNegocio.csproj",
+      "msbuildProject": "../EntidadesDeNegocio/EntidadesDeNegocio.csproj"
+    },
+    "LogicaNegocios/1.0.0": {
+      "type": "project",
+      "path": "../LogicaNegocios/LogicaNegocios.csproj",
+      "msbuildProject": "../LogicaNegocios/LogicaNegocios.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BaseDatos >= 1.0.0",
-      "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj"
+      "EntidadesDeNegocio >= 1.0.0",
+      "LogicaNegocios >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
+      "projectUniqueName": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\InterfazUsuario\\InterfazUsuario.csproj",
       "projectName": "InterfazUsuario",
-      "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
+      "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\InterfazUsuario\\InterfazUsuario.csproj",
       "packagesPath": "C:\\Users\\Jhoan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\obj\\",
+      "outputPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\InterfazUsuario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,11 +87,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj": {
-              "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj"
+            "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+              "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
             },
-            "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj": {
-              "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj"
+            "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\LogicaNegocios\\LogicaNegocios.csproj": {
+              "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\LogicaNegocios\\LogicaNegocios.csproj"
             }
           }
         }
@@ -92,16 +126,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

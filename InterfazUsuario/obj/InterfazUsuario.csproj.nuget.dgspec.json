@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj": {}
+    "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\InterfazUsuario\\InterfazUsuario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj": {
+    "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj",
-        "projectName": "BaseDatos",
-        "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj",
+        "projectName": "EntidadesDeNegocio",
+        "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,33 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj": {
+    "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesNegocio\\BaseDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesNegocio\\BaseDatos.csproj",
+        "projectName": "BaseDatos",
+        "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesNegocio\\BaseDatos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\InterfazUsuario\\InterfazUsuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
+        "projectUniqueName": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\InterfazUsuario\\InterfazUsuario.csproj",
         "projectName": "InterfazUsuario",
-        "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
+        "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\InterfazUsuario\\InterfazUsuario.csproj",
         "packagesPath": "C:\\Users\\Jhoan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\InterfazUsuario\\obj\\",
+        "outputPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\InterfazUsuario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,11 +62,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj": {
-                "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\LogicaNegocios\\LogicaNegocios.csproj"
+              "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
               },
-              "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj": {
-                "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj"
+              "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\LogicaNegocios\\LogicaNegocios.csproj": {
+                "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\LogicaNegocios\\LogicaNegocios.csproj"
               }
             }
           }
@@ -81,6 +100,25 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\LogicaNegocios\\LogicaNegocios.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\LogicaNegocios\\LogicaNegocios.csproj",
+        "projectName": "LogicaNegocios",
+        "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\LogicaNegocios\\LogicaNegocios.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesNegocio\\BaseDatos.csproj": {
+                "projectPath": "C:\\Users\\Jhoan\\Desktop\\proyecto jueves\\Proyecto_Airsur.git\\EntidadesNegocio\\BaseDatos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

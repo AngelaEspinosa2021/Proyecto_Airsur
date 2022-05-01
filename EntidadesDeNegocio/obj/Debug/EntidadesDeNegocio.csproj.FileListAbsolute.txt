@@ -1,0 +1,5 @@
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur.git\EntidadesDeNegocio\bin\Debug\EntidadesDeNegocio.dll
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur.git\EntidadesDeNegocio\bin\Debug\EntidadesDeNegocio.pdb
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur.git\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur.git\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.dll
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur.git\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.pdb

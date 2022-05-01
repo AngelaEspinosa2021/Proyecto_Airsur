@@ -77,7 +77,6 @@
     <Compile Include="clasificacion.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
     <Compile Include="database_firewall_rules.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
     </Compile>

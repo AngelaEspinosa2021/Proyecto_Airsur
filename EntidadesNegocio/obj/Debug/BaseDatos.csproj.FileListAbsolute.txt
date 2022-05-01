@@ -1,0 +1,14 @@
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\bin\Debug\EntidadesNegocio.dll.config
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\bin\Debug\EntidadesNegocio.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\bin\Debug\EntidadesNegocio.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\bin\Debug\EntidadesDeNegocio.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\bin\Debug\EntityFramework.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\bin\Debug\EntidadesDeNegocio.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\bin\Debug\EntityFramework.xml
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\obj\Debug\BaseDatos.csproj.CopyComplete
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\obj\Debug\EntidadesNegocio.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\EntidadesNegocio\obj\Debug\EntidadesNegocio.pdb

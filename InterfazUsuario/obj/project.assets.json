@@ -10,6 +10,27 @@
         "runtime": {
           "bin/placeholder/BaseDatos.dll": {}
         }
+      },
+      "EntidadesDeNegocio/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/EntidadesDeNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesDeNegocio.dll": {}
+        }
+      },
+      "LogicaNegocios/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BaseDatos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LogicaNegocios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogicaNegocios.dll": {}
+        }
       }
     }
   },
@@ -18,11 +39,22 @@
       "type": "project",
       "path": "../EntidadesNegocio/BaseDatos.csproj",
       "msbuildProject": "../EntidadesNegocio/BaseDatos.csproj"
+    },
+    "EntidadesDeNegocio/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesDeNegocio/EntidadesDeNegocio.csproj",
+      "msbuildProject": "../EntidadesDeNegocio/EntidadesDeNegocio.csproj"
+    },
+    "LogicaNegocios/1.0.0": {
+      "type": "project",
+      "path": "../LogicaNegocios/LogicaNegocios.csproj",
+      "msbuildProject": "../LogicaNegocios/LogicaNegocios.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BaseDatos >= 1.0.0"
+      "EntidadesDeNegocio >= 1.0.0",
+      "LogicaNegocios >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,8 +84,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesNegocio\\BaseDatos.csproj": {
-              "projectPath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesNegocio\\BaseDatos.csproj"
+            "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
+            },
+            "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\LogicaNegocios\\LogicaNegocios.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\LogicaNegocios\\LogicaNegocios.csproj"
             }
           }
         }

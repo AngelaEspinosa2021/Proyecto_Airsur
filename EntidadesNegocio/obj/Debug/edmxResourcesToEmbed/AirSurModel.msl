@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bdaisurModelStoreContainer" CdmEntityContainer="bdaisurEntities">
+    <EntitySetMapping Name="arma">
+      <EntityTypeMapping TypeName="bdaisurModel.arma">
+        <MappingFragment StoreEntitySet="arma">
+          <ScalarProperty Name="id_arma" ColumnName="id_arma" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="peso" ColumnName="peso" />
+          <ScalarProperty Name="cantidadMunicion" ColumnName="cantidadMunicion" />
+          <ScalarProperty Name="IdTipoArma_Fk" ColumnName="IdTipoArma_Fk" />
+          <ScalarProperty Name="IdMarca_Fk" ColumnName="IdMarca_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="armaExplosiva">
+      <EntityTypeMapping TypeName="bdaisurModel.armaExplosiva">
+        <MappingFragment StoreEntitySet="armaExplosiva">
+          <ScalarProperty Name="id_armaExplosiva" ColumnName="id_armaExplosiva" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="peso" ColumnName="peso" />
+          <ScalarProperty Name="alcance" ColumnName="alcance" />
+          <ScalarProperty Name="poderDestruccion" ColumnName="poderDestruccion" />
+          <ScalarProperty Name="idMarca_Fk" ColumnName="idMarca_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="arsenalSoldado">
+      <EntityTypeMapping TypeName="bdaisurModel.arsenalSoldado">
+        <MappingFragment StoreEntitySet="arsenalSoldado">
+          <ScalarProperty Name="id_arsenalSolado" ColumnName="id_arsenalSolado" />
+          <ScalarProperty Name="idSoldado_Fk" ColumnName="idSoldado_Fk" />
+          <ScalarProperty Name="idVehiculo_Fk" ColumnName="idVehiculo_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="clasificacion">
+      <EntityTypeMapping TypeName="bdaisurModel.clasificacion">
+        <MappingFragment StoreEntitySet="clasificacion">
+          <ScalarProperty Name="id_clasificacion" ColumnName="id_clasificacion" />
+          <ScalarProperty Name="clasificacion1" ColumnName="clasificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="marca">
+      <EntityTypeMapping TypeName="bdaisurModel.marca">
+        <MappingFragment StoreEntitySet="marca">
+          <ScalarProperty Name="id_marca" ColumnName="id_marca" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="idClasificacion_Fk" ColumnName="idClasificacion_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pais">
+      <EntityTypeMapping TypeName="bdaisurModel.pais">
+        <MappingFragment StoreEntitySet="pais">
+          <ScalarProperty Name="id_pais" ColumnName="id_pais" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="paisArma">
+      <EntityTypeMapping TypeName="bdaisurModel.paisArma">
+        <MappingFragment StoreEntitySet="paisArma">
+          <ScalarProperty Name="id_paisArma" ColumnName="id_paisArma" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="cantidadMunicion" ColumnName="cantidadMunicion" />
+          <ScalarProperty Name="IdPais_Fk" ColumnName="IdPais_Fk" />
+          <ScalarProperty Name="IdArma_Fk" ColumnName="IdArma_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="paisArmaExplosiva">
+      <EntityTypeMapping TypeName="bdaisurModel.paisArmaExplosiva">
+        <MappingFragment StoreEntitySet="paisArmaExplosiva">
+          <ScalarProperty Name="id_paisArmaExplosiva" ColumnName="id_paisArmaExplosiva" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="idPais_Fk" ColumnName="idPais_Fk" />
+          <ScalarProperty Name="idArmaExplosiva_Fk" ColumnName="idArmaExplosiva_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="paisVehiculo">
+      <EntityTypeMapping TypeName="bdaisurModel.paisVehiculo">
+        <MappingFragment StoreEntitySet="paisVehiculo">
+          <ScalarProperty Name="id_paisVehiculo" ColumnName="id_paisVehiculo" />
+          <ScalarProperty Name="idPais_Fk" ColumnName="idPais_Fk" />
+          <ScalarProperty Name="idVehiculo_Fk" ColumnName="idVehiculo_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="profesion">
+      <EntityTypeMapping TypeName="bdaisurModel.profesion">
+        <MappingFragment StoreEntitySet="profesion">
+          <ScalarProperty Name="id_profesion" ColumnName="id_profesion" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rango">
+      <EntityTypeMapping TypeName="bdaisurModel.rango">
+        <MappingFragment StoreEntitySet="rango">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="soldado">
+      <EntityTypeMapping TypeName="bdaisurModel.soldado">
+        <MappingFragment StoreEntitySet="soldado">
+          <ScalarProperty Name="id_soldado" ColumnName="id_soldado" />
+          <ScalarProperty Name="edad" ColumnName="edad" />
+          <ScalarProperty Name="experiencia" ColumnName="experiencia" />
+          <ScalarProperty Name="capacidadCarga" ColumnName="capacidadCarga" />
+          <ScalarProperty Name="idPais_Fk" ColumnName="idPais_Fk" />
+          <ScalarProperty Name="idProfesion_Fk" ColumnName="idProfesion_Fk" />
+          <ScalarProperty Name="idRango_Fk" ColumnName="idRango_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="soldadoTipoArma">
+      <EntityTypeMapping TypeName="bdaisurModel.soldadoTipoArma">
+        <MappingFragment StoreEntitySet="soldadoTipoArma">
+          <ScalarProperty Name="id_soldadoTipoArma" ColumnName="id_soldadoTipoArma" />
+          <ScalarProperty Name="idSoldado" ColumnName="idSoldado" />
+          <ScalarProperty Name="idTipoArma_Fk" ColumnName="idTipoArma_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tipoArma">
+      <EntityTypeMapping TypeName="bdaisurModel.tipoArma">
+        <MappingFragment StoreEntitySet="tipoArma">
+          <ScalarProperty Name="id_tipoArma" ColumnName="id_tipoArma" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="clasificacion" ColumnName="clasificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tipoUsuario">
+      <EntityTypeMapping TypeName="bdaisurModel.tipoUsuario">
+        <MappingFragment StoreEntitySet="tipoUsuario">
+          <ScalarProperty Name="id_tipoUsuario" ColumnName="id_tipoUsuario" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tipoVehiculo">
+      <EntityTypeMapping TypeName="bdaisurModel.tipoVehiculo">
+        <MappingFragment StoreEntitySet="tipoVehiculo">
+          <ScalarProperty Name="id_tipoVehiculo" ColumnName="id_tipoVehiculo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuario">
+      <EntityTypeMapping TypeName="bdaisurModel.usuario">
+        <MappingFragment StoreEntitySet="usuario">
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+          <ScalarProperty Name="usuario1" ColumnName="usuario" />
+          <ScalarProperty Name="contrasena" ColumnName="contrasena" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+          <ScalarProperty Name="id_tipoUsuario" ColumnName="id_tipoUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vehiculo">
+      <EntityTypeMapping TypeName="bdaisurModel.vehiculo">
+        <MappingFragment StoreEntitySet="vehiculo">
+          <ScalarProperty Name="id_vehiculo" ColumnName="id_vehiculo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="cilindraje" ColumnName="cilindraje" />
+          <ScalarProperty Name="capacidadCargaMunicion" ColumnName="capacidadCargaMunicion" />
+          <ScalarProperty Name="idTipoVehiculo_Fk" ColumnName="idTipoVehiculo_Fk" />
+          <ScalarProperty Name="idMarca_Fk" ColumnName="idMarca_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="database_firewall_rules">
+      <EntityTypeMapping TypeName="bdaisurModel.database_firewall_rules">
+        <MappingFragment StoreEntitySet="database_firewall_rules">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="start_ip_address" ColumnName="start_ip_address" />
+          <ScalarProperty Name="end_ip_address" ColumnName="end_ip_address" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="modify_date" ColumnName="modify_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ipv6_database_firewall_rules">
+      <EntityTypeMapping TypeName="bdaisurModel.ipv6_database_firewall_rules">
+        <MappingFragment StoreEntitySet="ipv6_database_firewall_rules">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="start_ipv6_address" ColumnName="start_ipv6_address" />
+          <ScalarProperty Name="end_ipv6_address" ColumnName="end_ipv6_address" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="modify_date" ColumnName="modify_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

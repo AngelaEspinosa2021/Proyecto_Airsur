@@ -1,0 +1,12 @@
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntidadesNegocio.dll.config
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntidadesNegocio.dll
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntidadesNegocio.pdb
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntityFramework.xml
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\obj\Debug\BaseDatos.csproj.CopyComplete
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\obj\Debug\EntidadesNegocio.dll
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesNegocio\obj\Debug\EntidadesNegocio.pdb

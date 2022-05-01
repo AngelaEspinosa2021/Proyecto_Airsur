@@ -1,0 +1,6 @@
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesDeNegocio\bin\Debug\EntidadesDeNegocio.dll
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesDeNegocio\bin\Debug\EntidadesDeNegocio.pdb
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.dll
+C:\Users\Andres\source\repos\Proyecto_Airsur\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.pdb

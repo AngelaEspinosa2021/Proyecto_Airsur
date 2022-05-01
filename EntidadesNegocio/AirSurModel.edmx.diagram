@@ -22,7 +22,7 @@
         <EntityTypeShape EntityType="bdaisurModel.tipoUsuario" Width="1.5" PointX="10.75" PointY="3.125" IsExpanded="true" />
         <EntityTypeShape EntityType="bdaisurModel.tipoVehiculo" Width="1.5" PointX="3.75" PointY="19.125" IsExpanded="true" />
         <EntityTypeShape EntityType="bdaisurModel.usuario" Width="1.5" PointX="13" PointY="2.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="bdaisurModel.vehiculo" Width="1.5" PointX="6" PointY="18.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdaisurModel.vehiculo" Width="1.5" PointX="5.875" PointY="18.625" IsExpanded="true" />
         <EntityTypeShape EntityType="bdaisurModel.database_firewall_rules" Width="1.5" PointX="5.75" PointY="2.5" IsExpanded="true" />
         <EntityTypeShape EntityType="bdaisurModel.ipv6_database_firewall_rules" Width="1.5" PointX="7.75" PointY="2.5" IsExpanded="true" />
         <AssociationConnector Association="bdaisurModel.FK_arma_marca" ManuallyRouted="false" />

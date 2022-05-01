@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj": {}
+    "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj": {
+    "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj",
-        "projectName": "BaseDatos",
-        "projectPath": "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj",
+        "projectName": "EntidadesDeNegocio",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,29 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj": {
+    "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj",
+        "projectName": "BaseDatos",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
         "projectName": "InterfazUsuario",
-        "projectPath": "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\InterfazUsuario\\InterfazUsuario.csproj",
         "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\InterfazUsuario\\obj\\",
+        "outputPath": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\InterfazUsuario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,11 +62,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Andres\\Source\\Repos\\LogicaNegocios\\LogicaNegocios.csproj": {
-                "projectPath": "C:\\Users\\Andres\\Source\\Repos\\LogicaNegocios\\LogicaNegocios.csproj"
+              "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
               },
-              "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj": {
-                "projectPath": "C:\\Users\\Andres\\Source\\Repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj"
+              "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\LogicaNegocios\\LogicaNegocios.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\LogicaNegocios\\LogicaNegocios.csproj"
               }
             }
           }
@@ -85,6 +100,25 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\LogicaNegocios\\LogicaNegocios.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\LogicaNegocios\\LogicaNegocios.csproj",
+        "projectName": "LogicaNegocios",
+        "projectPath": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\LogicaNegocios\\LogicaNegocios.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj": {
+                "projectPath": "C:\\Users\\Andres\\source\\repos\\Proyecto_Airsur\\EntidadesNegocio\\BaseDatos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

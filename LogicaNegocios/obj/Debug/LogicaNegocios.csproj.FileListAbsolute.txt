@@ -4,3 +4,11 @@ D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CoreCompileInputs.cache
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\obj\Debug\LogicaNegocios.dll
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\bin\Debug\EntidadesDeNegocio.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\bin\Debug\EntidadesNegocio.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\bin\Debug\EntityFramework.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\bin\Debug\EntidadesDeNegocio.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\bin\Debug\EntidadesNegocio.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\bin\Debug\EntidadesNegocio.dll.config
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\bin\Debug\EntityFramework.xml
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CopyComplete

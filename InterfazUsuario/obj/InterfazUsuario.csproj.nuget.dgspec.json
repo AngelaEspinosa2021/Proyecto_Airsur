@@ -113,6 +113,9 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
+              "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+                "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
+              },
               "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj": {
                 "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj"
               }

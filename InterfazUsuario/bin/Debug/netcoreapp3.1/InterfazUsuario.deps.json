@@ -344,7 +344,8 @@
       },
       "LogicaNegocios/1.0.0": {
         "dependencies": {
-          "BaseDatos": "1.0.0"
+          "BaseDatos": "1.0.0",
+          "EntidadesDeNegocio": "1.0.0"
         },
         "runtime": {
           "LogicaNegocios.dll": {}

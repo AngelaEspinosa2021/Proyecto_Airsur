@@ -26,7 +26,8 @@
       "LogicaNegocios/1.0.0": {
         "type": "project",
         "dependencies": {
-          "BaseDatos": "1.0.0"
+          "BaseDatos": "1.0.0",
+          "EntidadesDeNegocio": "1.0.0"
         },
         "compile": {
           "bin/placeholder/LogicaNegocios.dll": {}

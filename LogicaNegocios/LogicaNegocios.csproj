@@ -42,8 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SoldadoBL.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\EntidadesDeNegocio\EntidadesDeNegocio\EntidadesDeNegocio.csproj">
+      <Project>{3CCAE355-D6FA-472A-A4C7-917F8702B998}</Project>
+      <Name>EntidadesDeNegocio</Name>
+    </ProjectReference>
     <ProjectReference Include="..\EntidadesNegocio\BaseDatos.csproj">
       <Project>{a36cd13c-33b0-4531-8ab3-b10438b56732}</Project>
       <Name>BaseDatos</Name>

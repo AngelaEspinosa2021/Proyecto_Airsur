@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7B5519B0-0BD9-47DD-8834-D30578BC231D}</ProjectGuid>
+    <ProjectGuid>{6E2CEAF6-723A-4007-B0A6-1FBA8E67E943}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LogicaNegocios</RootNamespace>
@@ -41,11 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EntidadesNegocio\EntidadesNegocio\BaseDatos.csproj">
+    <ProjectReference Include="..\EntidadesNegocio\BaseDatos.csproj">
       <Project>{a36cd13c-33b0-4531-8ab3-b10438b56732}</Project>
       <Name>BaseDatos</Name>
     </ProjectReference>

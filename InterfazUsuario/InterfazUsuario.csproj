@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\LogicaNegocios\LogicaNegocios.csproj" />
     <ProjectReference Include="..\EntidadesDeNegocio\EntidadesDeNegocio\EntidadesDeNegocio.csproj" />
+    <ProjectReference Include="..\LogicaNegocios\LogicaNegocios.csproj" />
   </ItemGroup>
 
 </Project>

@@ -50,8 +50,8 @@
     },
     "LogicaNegocios/1.0.0": {
       "type": "project",
-      "path": "../../LogicaNegocios/LogicaNegocios.csproj",
-      "msbuildProject": "../../LogicaNegocios/LogicaNegocios.csproj"
+      "path": "../LogicaNegocios/LogicaNegocios.csproj",
+      "msbuildProject": "../LogicaNegocios/LogicaNegocios.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -94,8 +94,8 @@
             "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
               "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
             },
-            "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj": {
-              "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj"
+            "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\LogicaNegocios\\LogicaNegocios.csproj": {
+              "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\LogicaNegocios\\LogicaNegocios.csproj"
             }
           }
         }

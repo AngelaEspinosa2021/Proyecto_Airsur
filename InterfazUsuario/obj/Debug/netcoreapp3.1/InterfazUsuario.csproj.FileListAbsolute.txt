@@ -9,12 +9,7 @@ D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\InterfazUsuario.Views.dll
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\InterfazUsuario.Views.pdb
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesDeNegocio.dll
-D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesNegocio.dll
-D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntityFramework.dll
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesDeNegocio.pdb
-D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesNegocio.pdb
-D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesNegocio.dll.config
-D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntityFramework.xml
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\obj\Debug\netcoreapp3.1\InterfazUsuario.csproj.AssemblyReference.cache
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\obj\Debug\netcoreapp3.1\InterfazUsuario.GeneratedMSBuildEditorConfig.editorconfig
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\obj\Debug\netcoreapp3.1\InterfazUsuario.AssemblyInfoInputs.cache
@@ -41,3 +36,10 @@ D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\obj\Debug\netcoreapp3.1\InterfazUsuario.dll
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\obj\Debug\netcoreapp3.1\InterfazUsuario.pdb
 D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\obj\Debug\netcoreapp3.1\InterfazUsuario.genruntimeconfig.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesNegocio.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\LogicaNegocios.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\LogicaNegocios.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesNegocio.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesNegocio.dll.config
+D:\UNIVERSIDAD\ARQUITECTURA DE SW\EQUIPO PIKACHU\PROYECTO AISUR\EntidadesNegocio\InterfazUsuario\bin\Debug\netcoreapp3.1\EntityFramework.xml

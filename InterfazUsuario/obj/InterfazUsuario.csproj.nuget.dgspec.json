@@ -68,8 +68,8 @@
               "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
                 "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
               },
-              "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj": {
-                "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj"
+              "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\LogicaNegocios\\LogicaNegocios.csproj": {
+                "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\LogicaNegocios\\LogicaNegocios.csproj"
               }
             }
           }
@@ -105,11 +105,11 @@
         }
       }
     },
-    "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj": {
+    "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\LogicaNegocios\\LogicaNegocios.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj",
+        "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\LogicaNegocios\\LogicaNegocios.csproj",
         "projectName": "LogicaNegocios",
-        "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj",
+        "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\LogicaNegocios\\LogicaNegocios.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {

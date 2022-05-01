@@ -31,7 +31,8 @@
     ".NETCoreApp,Version=v3.1": {
       "InterfazUsuario/1.0.0": {
         "dependencies": {
-          "BaseDatos": "1.0.0",
+          "EntidadesDeNegocio": "1.0.0",
+          "LogicaNegocios": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -323,11 +324,33 @@
         }
       },
       "BaseDatos/1.0.0": {
+        "dependencies": {
+          "EntidadesDeNegocio": "1.0.0"
+        },
         "runtime": {
           "EntidadesNegocio.dll": {}
         },
         "compile": {
           "EntidadesNegocio.dll": {}
+        }
+      },
+      "EntidadesDeNegocio/1.0.0": {
+        "runtime": {
+          "EntidadesDeNegocio.dll": {}
+        },
+        "compile": {
+          "EntidadesDeNegocio.dll": {}
+        }
+      },
+      "LogicaNegocios/1.0.0": {
+        "dependencies": {
+          "BaseDatos": "1.0.0"
+        },
+        "runtime": {
+          "LogicaNegocios.dll": {}
+        },
+        "compile": {
+          "LogicaNegocios.dll": {}
         }
       },
       "EntityFramework/6.0.0.0": {
@@ -2039,6 +2062,16 @@
       "sha512": ""
     },
     "BaseDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesDeNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaNegocios/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

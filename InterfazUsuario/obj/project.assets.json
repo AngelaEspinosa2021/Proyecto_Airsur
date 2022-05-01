@@ -4,6 +4,9 @@
     ".NETCoreApp,Version=v3.1": {
       "BaseDatos/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "EntidadesDeNegocio": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/BaseDatos.dll": {}
         },

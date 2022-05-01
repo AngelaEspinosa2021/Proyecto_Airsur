@@ -41,3 +41,7 @@ C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Pr
 C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\InterfazUsuario\obj\Debug\netcoreapp3.1\InterfazUsuario.dll
 C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\InterfazUsuario\obj\Debug\netcoreapp3.1\InterfazUsuario.pdb
 C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\InterfazUsuario\obj\Debug\netcoreapp3.1\InterfazUsuario.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesDeNegocio.dll
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\InterfazUsuario\bin\Debug\netcoreapp3.1\LogicaNegocios.dll
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\InterfazUsuario\bin\Debug\netcoreapp3.1\EntidadesDeNegocio.pdb
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\InterfazUsuario\bin\Debug\netcoreapp3.1\LogicaNegocios.pdb

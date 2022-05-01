@@ -10,3 +10,5 @@ C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Pr
 C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesNegocio\obj\Debug\BaseDatos.csproj.CopyComplete
 C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesNegocio\obj\Debug\EntidadesNegocio.dll
 C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesNegocio\obj\Debug\EntidadesNegocio.pdb
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesNegocio\bin\Debug\EntidadesDeNegocio.dll
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesNegocio\bin\Debug\EntidadesDeNegocio.pdb

@@ -26,7 +26,11 @@
         "projectPath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesNegocio\\BaseDatos.csproj",
         "frameworks": {
           "net472": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
+              }
+            }
           }
         }
       },

@@ -68,6 +68,7 @@
     <Compile Include="arma.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="ArmaDAL.cs" />
     <Compile Include="armaExplosiva.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
     </Compile>
@@ -114,6 +115,7 @@
     <Compile Include="tipoArma.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="TipoArmaDAL.cs" />
     <Compile Include="tipoUsuario.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
     </Compile>

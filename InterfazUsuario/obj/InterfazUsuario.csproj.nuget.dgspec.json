@@ -4,6 +4,21 @@
     "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\InterfazUsuario\\InterfazUsuario.csproj": {}
   },
   "projects": {
+    "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj",
+        "projectName": "EntidadesDeNegocio",
+        "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj": {
       "restore": {
         "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj",
@@ -11,7 +26,11 @@
         "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj",
         "frameworks": {
           "net472": {
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+                "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
+              }
+            }
           }
         }
       },
@@ -46,8 +65,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj": {
-                "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj"
+              "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+                "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
               },
               "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj": {
                 "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj"

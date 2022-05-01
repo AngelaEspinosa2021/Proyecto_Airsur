@@ -4,11 +4,23 @@
     ".NETCoreApp,Version=v3.1": {
       "BaseDatos/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "EntidadesDeNegocio": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/BaseDatos.dll": {}
         },
         "runtime": {
           "bin/placeholder/BaseDatos.dll": {}
+        }
+      },
+      "EntidadesDeNegocio/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/EntidadesDeNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesDeNegocio.dll": {}
         }
       },
       "LogicaNegocios/1.0.0": {
@@ -31,6 +43,11 @@
       "path": "../EntidadesNegocio/BaseDatos.csproj",
       "msbuildProject": "../EntidadesNegocio/BaseDatos.csproj"
     },
+    "EntidadesDeNegocio/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesDeNegocio/EntidadesDeNegocio/EntidadesDeNegocio.csproj",
+      "msbuildProject": "../EntidadesDeNegocio/EntidadesDeNegocio/EntidadesDeNegocio.csproj"
+    },
     "LogicaNegocios/1.0.0": {
       "type": "project",
       "path": "../../LogicaNegocios/LogicaNegocios.csproj",
@@ -39,7 +56,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BaseDatos >= 1.0.0",
+      "EntidadesDeNegocio >= 1.0.0",
       "LogicaNegocios >= 1.0.0"
     ]
   },
@@ -74,8 +91,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj": {
-              "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesNegocio\\BaseDatos.csproj"
+            "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj": {
+              "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\EntidadesNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio\\EntidadesDeNegocio.csproj"
             },
             "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj": {
               "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SW\\EQUIPO PIKACHU\\PROYECTO AISUR\\LogicaNegocios\\LogicaNegocios.csproj"

@@ -1,0 +1,12 @@
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntidadesNegocio.dll.config
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntidadesNegocio.dll
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntidadesNegocio.pdb
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntityFramework.xml
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\obj\Debug\BaseDatos.csproj.CopyComplete
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\obj\Debug\EntidadesNegocio.dll
+C:\Users\Jhoan\Desktop\proyecto jueves\Proyecto_Airsur\EntidadesNegocio\obj\Debug\EntidadesNegocio.pdb

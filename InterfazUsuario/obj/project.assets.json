@@ -22,8 +22,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BaseDatos >= 1.0.0",
-      "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\LogicaNegocios\\LogicaNegocios.csproj"
+      "BaseDatos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,9 +52,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\LogicaNegocios\\LogicaNegocios.csproj": {
-              "projectPath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\LogicaNegocios\\LogicaNegocios.csproj"
-            },
             "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesNegocio\\BaseDatos.csproj": {
               "projectPath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesNegocio\\BaseDatos.csproj"
             }
@@ -92,16 +88,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\LogicaNegocios\\LogicaNegocios.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\LogicaNegocios\\LogicaNegocios.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

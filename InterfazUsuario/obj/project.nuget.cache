@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n8SsYxpFgECUOnoMeax8Ym03DJtqk6G72N6CllPOF9d+7cwD+qOrxwv45S1QT7PhYCC5WvU84y6pcAvGLLnnJg==",
-  "success": false,
+  "dgSpecHash": "+GfDPM+jwBhZDitxxrbHxvpUOciXY/ANE/kdEHRXbHzIyLVClDBcmRowxNkkAsC0GaNzDewedYYfVLFQ3iAJQQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\InterfazUsuario\\InterfazUsuario.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\LogicaNegocios\\LogicaNegocios.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\LogicaNegocios\\LogicaNegocios.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

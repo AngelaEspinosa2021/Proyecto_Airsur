@@ -4,8 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\LogicaNegocios\LogicaNegocios.csproj" />
+  <ItemGroup>   
     <ProjectReference Include="..\EntidadesNegocio\BaseDatos.csproj" />
   </ItemGroup>
 

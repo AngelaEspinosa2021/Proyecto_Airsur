@@ -43,9 +43,6 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\LogicaNegocios\\LogicaNegocios.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\LogicaNegocios\\LogicaNegocios.csproj"
-              },
               "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesNegocio\\BaseDatos.csproj": {
                 "projectPath": "C:\\Users\\USUARIO\\Documents\\ING_INFORMATICA\\Quinto Semestre\\Arquitectura de SW\\Proyecto Metodologia Scrum\\ProyectoAisur\\EntidadesNegocio\\BaseDatos.csproj"
               }

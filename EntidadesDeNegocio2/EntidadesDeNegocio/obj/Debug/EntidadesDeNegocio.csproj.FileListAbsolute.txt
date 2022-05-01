@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesDeNegocio\EntidadesDeNegocio\bin\Debug\EntidadesDeNegocio.dll
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesDeNegocio\EntidadesDeNegocio\bin\Debug\EntidadesDeNegocio.pdb
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesDeNegocio\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesDeNegocio\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesDeNegocio\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.dll
+C:\Users\USUARIO\Documents\ING_INFORMATICA\Quinto Semestre\Arquitectura de SW\Proyecto Metodologia Scrum\ProyectoAisur\EntidadesDeNegocio\EntidadesDeNegocio\obj\Debug\EntidadesDeNegocio.pdb

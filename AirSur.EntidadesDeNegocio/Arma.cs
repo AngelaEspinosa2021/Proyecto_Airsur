@@ -11,13 +11,13 @@ namespace AirSur.EntidadesDeNegocio
     public class Arma
     {
         [Key]
-        public int Id_arma { get; set; }
+        public long Id_arma { get; set; }
         public string Nombre { get; set; }
         public int Peso { get; set; }
-        public int CantidadMunicion { get; set; }
-        [ForeignKey("TipoArma")]
-        public int IdTipoArma_Fk { get; set; }
-        [ForeignKey("Marca")]
+        public long? CantidadMunicion { get; set; }
+        //[ForeignKey("TipoArma")]
+        public long? IdTipoArma_Fk { get; set; }
+        //[ForeignKey("Marca")]
         public int IdMarca_Fk { get; set; }
     }
 }

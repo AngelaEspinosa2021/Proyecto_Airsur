@@ -1,7 +1,56 @@
-﻿
+﻿@model List<AirSur.AccesoADatos.soldado>
 @{
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Nuevo Soldado", "Create")
+</p>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Edad</th>
+            <th>Experiencia</th>
+            <th>Capacidad de Carga</th>
+            <th>Pais</th>
+            <th>Profesion</th>
+            <th>Rango</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var soldado in Model)
+        {
+            <tr>
+                <td>
+                    @soldado.edad
+                </td>
+                <td>
+                    @soldado.experiencia
+                </td>
+                <td>
+                    @soldado.capacidadCarga
+                </td>
+                <td>
+                    @soldado.idPais_Fk
+                </td>
+                <td>
+                    @soldado.idProfesion_Fk
+                </td>
+                <td>
+                    @soldado.idRango_Fk
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", " ", new { id = soldado.id_soldado }) |
+                    @Html.ActionLink("Details", " ", new { id = soldado.id_soldado }) |
+                    @Html.ActionLink("Delete", " ", new { id = soldado.id_soldado })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Airsur.LogicaDeNegocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,9 +9,11 @@ namespace AirSur_Web.Controllers
 {
     public class SoldadoController : Controller
     {
+        SoldadoBL metodosSoldado = new SoldadoBL();
         // GET: Soldado
         public ActionResult Index()
         {
+            var soldados = metodosSoldado.obtenerListaSoldados();
             return View();
         }
 

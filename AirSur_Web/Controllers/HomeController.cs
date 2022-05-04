@@ -10,13 +10,10 @@ namespace AirSur_Web.Controllers
 {
     public class HomeController : Controller
     {
-        SoldadoBL metodosNegocio = new SoldadoBL();
-
-        public IEnumerable<Soldado> soldados { get; set; }
+           
 
         public ActionResult Index()
         {
-            var soldados = metodosNegocio.obtenerListaSoldados();
             return View();
         }
 

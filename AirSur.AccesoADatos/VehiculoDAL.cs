@@ -3,22 +3,21 @@ using System.Linq;
 
 namespace AirSur.AccesoADatos
 {
-    public class SoldadoDAL
+    public class VehiculoDAL
     {
         bdaisurEntities _db = new bdaisurEntities();
 
-        public bool guardar(soldado soldado)
+        public bool guardar(vehiculo vehiculo)
         {
-            _db.soldado.Add(soldado);
+            _db.vehiculo.Add(vehiculo);
             _db.SaveChanges();
             return true;
         }
 
-        public List<soldado> mostrarSoldados()
+        public List<vehiculo> mostrarVehiculos()
         {
-            var query = (from s in _db.soldado select s);
+            var query = (from s in _db.vehiculo select s);
             return query.ToList();
         }
-
     }
 }

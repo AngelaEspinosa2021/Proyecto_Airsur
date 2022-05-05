@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Profesion_C_LOGICA_NEGOCIO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SoldadoBL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AirSur.AccesoADatos\AirSur.AccesoADatos.csproj">

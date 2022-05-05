@@ -101,6 +101,7 @@
     <Compile Include="profesion.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="ProfesionC_DATOS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="rango.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
@@ -108,7 +109,6 @@
     <Compile Include="soldado.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="SoldadoDAL.cs" />
     <Compile Include="soldadoTipoArma.cs">
       <DependentUpon>AirSurModel.tt</DependentUpon>
     </Compile>

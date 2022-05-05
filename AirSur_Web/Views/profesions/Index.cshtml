@@ -1,0 +1,39 @@
+﻿@model IEnumerable<AirSur.AccesoADatos.profesion>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Profesiones</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id_profesion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.id_profesion)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.nombre)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.id_profesion }) |
+        |
+        @Html.ActionLink("Delete", "Delete", new { id = item.id_profesion })
+    </td>
+</tr>
+}
+
+</table>
